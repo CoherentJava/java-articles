@@ -5,7 +5,7 @@ This repository contains various projects that demonstrate different aspects of 
 Each tutorial is designed to help you learn new concepts and improve your skills in Java development.
 
 ## Articles
-- Test-Driven Development vs Behavior-Driven Development
+- [Test-Driven Development vs Behavior-Driven Development](https://coherentjava.blog/2025/08/28/test-driven-development-vs-behavior-driven-development/)
 
 ## What You'll Need
 - [Java SE Development Kit (JDK) version 17 or later](https://www.oracle.com/java/technologies/downloads/#jdk17)
